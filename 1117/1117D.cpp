@@ -16,8 +16,9 @@
 #include <cstdio>
 using namespace std;
 
+int N,M;
+
 
 int main() {
 
-    return 0;
 }
