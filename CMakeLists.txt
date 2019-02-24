@@ -3,4 +3,4 @@ project(codeforces)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(codeforces 833/833B.cpp)
+add_executable(codeforces 541/541C.cpp)
